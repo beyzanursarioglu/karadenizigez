@@ -1,0 +1,171 @@
+.d-block {
+    height: 500px;
+}
+
+.navbar-brand {
+    font-size: 30px;
+    font-family: cursive;
+}
+
+.bolge {
+
+    margin: 30px;
+    padding: 15px;
+    font-family: inherit;
+
+}
+
+#h3 {
+    color: green;
+    margin-top: 70px;
+
+
+}
+
+.iklim {
+
+    margin-top: 50px;
+}
+
+.jumbotron {
+    margin-bottom: 0px;
+
+}
+
+.fa-pagelines {
+    color: green;
+    font-size: 30px;
+}
+
+.footer {
+    text-align: center;
+}
+
+.container {
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+
+
+#img1 {
+    margin-top: 140px;
+    width: 400px;
+    height: 400px;
+
+
+
+}
+
+#img2 {
+
+    margin-top: 100px;
+    width: 450px;
+    height: 400px;
+
+}
+
+.navbar {
+    padding-left: 90px;
+    padding-right: 50px;
+
+}
+
+p {
+    color: dimgray;
+    font-weight: 500;
+}
+
+#h3 {
+    color: #b22222;
+}
+
+.icerik {
+
+    margin-top: 7%;
+    margin-bottom: 7%;
+    background-color: #000000;
+    opacity: 0.8;
+    filter: alpha(opacity=60);
+}
+
+.içerik p {
+    width: auto;
+    height: auto;
+    color: white;
+}
+
+.card {}
+
+
+.card-img-top {
+
+    height: 200px;
+    width: 291px;
+}
+
+.btn-group {
+    color: grey;
+}
+
+h2 {
+    color: brown;
+    font-family: cursive;
+}
+
+.bd-example {}
+
+#collapseOne h5 {
+    color: chocolate;
+
+}
+
+#collapseOne p {
+    color: black;
+}
+
+#collapseTwo h5 {
+    color: chocolate;
+}
+
+#collapseTwo p {
+    color: black;
+}
+
+#collapseThree h5 {
+    color: chocolate;
+}
+
+#collapseThree p {
+    color: black;
+}
+
+.accordion-header {
+    color: #444;
+    font-size: 20px;
+    font-family: 'Merriweather', serif;
+
+}
+
+.btn-link:hover {
+    text-decoration: none;
+}
+
+.btn-link:checked {
+    text-decoration: none;
+}
+
+.btn-link:enabled {
+    text-decoration: none;
+}
+
+.accordion-header:hover {
+    color: #c39f76;
+}
+
+.carousel-item img {
+    height: 540px;
+    margin-top: 8px;
+}
+
+
